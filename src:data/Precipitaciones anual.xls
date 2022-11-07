@@ -1,0 +1,381 @@
+Año,Mes,Parámetro,Valor,Unidades
+2014,Enero,Lluvia,55.9,L/m2
+2014,Enero,Lluvia diaria máxima,10.9,L/m2
+2014,Enero,Humedad media de máximas a 1.5m,94.0,%
+2014,Enero,Temperatura media a 1.5m,11.9,ºC
+2014,Febrero,Lluvia,64.5,L/m2
+2014,Febrero,Lluvia diaria máxima,9.9,L/m2
+2014,Febrero,Humedad media de máximas a 1.5m,93.0,%
+2014,Febrero,Temperatura media a 1.5m,11.0,ºC
+2014,Marzo,Lluvia,15.8,L/m2
+2014,Marzo,Lluvia diaria máxima,2.5,L/m2
+2014,Marzo,Humedad media de máximas a 1.5m,92.0,%
+2014,Marzo,Temperatura media a 1.5m,11.7,ºC
+2014,Abril,Lluvia,14.3,L/m2
+2014,Abril,Lluvia diaria máxima,2.9,L/m2
+2014,Abril,Humedad media de máximas a 1.5m,92.0,%
+2014,Abril,Temperatura media a 1.5m,13.6,ºC
+2014,Mayo,Lluvia,16.5,L/m2
+2014,Mayo,Lluvia diaria máxima,6.9,L/m2
+2014,Mayo,Humedad media de máximas a 1.5m,90.0,%
+2014,Mayo,Temperatura media a 1.5m,14.0,ºC
+2014,Junio,Lluvia,31.1,L/m2
+2014,Junio,Lluvia diaria máxima,7.8,L/m2
+2014,Junio,Humedad media de máximas a 1.5m,94.0,%
+2014,Junio,Temperatura media a 1.5m,16.5,ºC
+2014,Julio,Lluvia,15.9,L/m2
+2014,Julio,Lluvia diaria máxima,5.3,L/m2
+2014,Julio,Humedad media de máximas a 1.5m,96.0,%
+2014,Julio,Temperatura media a 1.5m,17.7,ºC
+2014,Agosto,Lluvia,11.6,L/m2
+2014,Agosto,Lluvia diaria máxima,6.4,L/m2
+2014,Agosto,Humedad media de máximas a 1.5m,94.0,%
+2014,Agosto,Temperatura media a 1.5m,18.1,ºC
+2014,Septiembre,Lluvia,31.3,L/m2
+2014,Septiembre,Lluvia diaria máxima,8.9,L/m2
+2014,Septiembre,Humedad media de máximas a 1.5m,93.0,%
+2014,Septiembre,Temperatura media a 1.5m,19.3,ºC
+2014,Octubre,Lluvia,23.6,L/m2
+2014,Octubre,Lluvia diaria máxima,6.8,L/m2
+2014,Octubre,Humedad media de máximas a 1.5m,94.0,%
+2014,Octubre,Temperatura media a 1.5m,18.1,ºC
+2014,Noviembre,Lluvia,86.3,L/m2
+2014,Noviembre,Lluvia diaria máxima,26.5,L/m2
+2014,Noviembre,Humedad media de máximas a 1.5m,93.0,%
+2014,Noviembre,Temperatura media a 1.5m,14.2,ºC
+2014,Diciembre,Lluvia,35.2,L/m2
+2014,Diciembre,Lluvia diaria máxima,14.1,L/m2
+2014,Diciembre,Humedad media de máximas a 1.5m,93.0,%
+2014,Diciembre,Temperatura media a 1.5m,11.8,ºC
+2015,Enero,Lluvia,43.2,L/m2
+2015,Enero,Lluvia diaria máxima,9.5,L/m2
+2015,Enero,Humedad media de máximas a 1.5m,95.0,%
+2015,Enero,Temperatura media a 1.5m,11.0,ºC
+2015,Febrero,Lluvia,26.6,L/m2
+2015,Febrero,Lluvia diaria máxima,4.9,L/m2
+2015,Febrero,Humedad media de máximas a 1.5m,91.0,%
+2015,Febrero,Temperatura media a 1.5m,10.3,ºC
+2015,Marzo,Lluvia,7.8,L/m2
+2015,Marzo,Lluvia diaria máxima,3.4,L/m2
+2015,Marzo,Humedad media de máximas a 1.5m,90.0,%
+2015,Marzo,Temperatura media a 1.5m,11.4,ºC
+2015,Abril,Lluvia,33.6,L/m2
+2015,Abril,Lluvia diaria máxima,7.1,L/m2
+2015,Abril,Humedad media de máximas a 1.5m,92.0,%
+2015,Abril,Temperatura media a 1.5m,13.5,ºC
+2015,Mayo,Lluvia,11.8,L/m2
+2015,Mayo,Lluvia diaria máxima,7.5,L/m2
+2015,Mayo,Humedad media de máximas a 1.5m,91.0,%
+2015,Mayo,Temperatura media a 1.5m,14.8,ºC
+2015,Junio,Lluvia,0.1,L/m2
+2015,Junio,Lluvia diaria máxima,0.1,L/m2
+2015,Junio,Humedad media de máximas a 1.5m,95.0,%
+2015,Junio,Temperatura media a 1.5m,15.8,ºC
+2015,Julio,Lluvia,3.7,L/m2
+2015,Julio,Lluvia diaria máxima,2.0,L/m2
+2015,Julio,Humedad media de máximas a 1.5m,95.0,%
+2015,Julio,Temperatura media a 1.5m,18.3,ºC
+2015,Agosto,Lluvia,41.7,L/m2
+2015,Agosto,Lluvia diaria máxima,19.0,L/m2
+2015,Agosto,Humedad media de máximas a 1.5m,97.0,%
+2015,Agosto,Temperatura media a 1.5m,17.8,ºC
+2015,Septiembre,Lluvia,16.4,L/m2
+2015,Septiembre,Lluvia diaria máxima,6.7,L/m2
+2015,Septiembre,Humedad media de máximas a 1.5m,96.0,%
+2015,Septiembre,Temperatura media a 1.5m,16.2,ºC
+2015,Octubre,Lluvia,40.7,L/m2
+2015,Octubre,Lluvia diaria máxima,12.8,L/m2
+2015,Octubre,Humedad media de máximas a 1.5m,93.0,%
+2015,Octubre,Temperatura media a 1.5m,16.0,ºC
+2015,Noviembre,Lluvia,10.2,L/m2
+2015,Noviembre,Lluvia diaria máxima,5.7,L/m2
+2015,Noviembre,Humedad media de máximas a 1.5m,94.0,%
+2015,Noviembre,Temperatura media a 1.5m,15.5,ºC
+2015,Diciembre,Lluvia,22.4,L/m2
+2015,Diciembre,Lluvia diaria máxima,5.6,L/m2
+2015,Diciembre,Humedad media de máximas a 1.5m,88.0,%
+2015,Diciembre,Temperatura media a 1.5m,14.6,ºC
+2016,Enero,Lluvia,91.6,L/m2
+2016,Enero,Lluvia diaria máxima,20.5,L/m2
+2016,Enero,Humedad media de máximas a 1.5m,95.0,%
+2016,Enero,Temperatura media a 1.5m,12.7,ºC
+2016,Febrero,Lluvia,103.5,L/m2
+2016,Febrero,Lluvia diaria máxima,21.4,L/m2
+2016,Febrero,Humedad media de máximas a 1.5m,92.0,%
+2016,Febrero,Temperatura media a 1.5m,11.5,ºC
+2016,Marzo,Lluvia,68.0,L/m2
+2016,Marzo,Lluvia diaria máxima,32.4,L/m2
+2016,Marzo,Humedad media de máximas a 1.5m,92.0,%
+2016,Marzo,Temperatura media a 1.5m,11.1,ºC
+2016,Abril,Lluvia,77.3,L/m2
+2016,Abril,Lluvia diaria máxima,21.7,L/m2
+2016,Abril,Humedad media de máximas a 1.5m,91.0,%
+2016,Abril,Temperatura media a 1.5m,11.8,ºC
+2016,Mayo,Lluvia,46.6,L/m2
+2016,Mayo,Lluvia diaria máxima,18.1,L/m2
+2016,Mayo,Humedad media de máximas a 1.5m,94.0,%
+2016,Mayo,Temperatura media a 1.5m,14.3,ºC
+2016,Junio,Lluvia,13.0,L/m2
+2016,Junio,Lluvia diaria máxima,3.6,L/m2
+2016,Junio,Humedad media de máximas a 1.5m,97.0,%
+2016,Junio,Temperatura media a 1.5m,16.6,ºC
+2016,Julio,Lluvia,0.9,L/m2
+2016,Julio,Lluvia diaria máxima,0.5,L/m2
+2016,Julio,Humedad media de máximas a 1.5m,96.0,%
+2016,Julio,Temperatura media a 1.5m,17.6,ºC
+2016,Agosto,Lluvia,2.5,L/m2
+2016,Agosto,Lluvia diaria máxima,1.7000000000000002,L/m2
+2016,Agosto,Humedad media de máximas a 1.5m,97.0,%
+2016,Agosto,Temperatura media a 1.5m,17.8,ºC
+2016,Septiembre,Lluvia,52.1,L/m2
+2016,Septiembre,Lluvia diaria máxima,19.2,L/m2
+2016,Septiembre,Humedad media de máximas a 1.5m,99.0,%
+2016,Septiembre,Temperatura media a 1.5m,17.0,ºC
+2016,Octubre,Lluvia,19.6,L/m2
+2016,Octubre,Lluvia diaria máxima,6.9,L/m2
+2016,Octubre,Humedad media de máximas a 1.5m,98.0,%
+2016,Octubre,Temperatura media a 1.5m,15.3,ºC
+2016,Noviembre,Lluvia,69.1,L/m2
+2016,Noviembre,Lluvia diaria máxima,16.3,L/m2
+2016,Noviembre,Humedad media de máximas a 1.5m,95.0,%
+2016,Noviembre,Temperatura media a 1.5m,13.1,ºC
+2016,Diciembre,Lluvia,12.6,L/m2
+2016,Diciembre,Lluvia diaria máxima,6.1,L/m2
+2016,Diciembre,Humedad media de máximas a 1.5m,93.0,%
+2016,Diciembre,Temperatura media a 1.5m,13.1,ºC
+2017,Enero,Lluvia,16.0,L/m2
+2017,Enero,Lluvia diaria máxima,4.4,L/m2
+2017,Enero,Temperatura media a 1.5m,10.7,ºC
+2017,Febrero,Lluvia,96.5,L/m2
+2017,Febrero,Lluvia diaria máxima,34.6,L/m2
+2017,Febrero,Humedad media de máximas a 1.5m,81.0,%
+2017,Febrero,Temperatura media a 1.5m,11.8,ºC
+2017,Marzo,Lluvia,112.6,L/m2
+2017,Marzo,Lluvia diaria máxima,17.5,L/m2
+2017,Marzo,Humedad media de máximas a 1.5m,80.0,%
+2017,Marzo,Temperatura media a 1.5m,12.5,ºC
+2017,Abril,Lluvia,16.6,L/m2
+2017,Abril,Lluvia diaria máxima,13.1,L/m2
+2017,Abril,Humedad media de máximas a 1.5m,79.0,%
+2017,Abril,Temperatura media a 1.5m,12.9,ºC
+2017,Mayo,Lluvia,54.4,L/m2
+2017,Mayo,Lluvia diaria máxima,13.4,L/m2
+2017,Mayo,Humedad media de máximas a 1.5m,82.0,%
+2017,Mayo,Temperatura media a 1.5m,15.8,ºC
+2017,Junio,Lluvia,19.2,L/m2
+2017,Junio,Lluvia diaria máxima,7.1,L/m2
+2017,Junio,Humedad media de máximas a 1.5m,85.0,%
+2017,Junio,Temperatura media a 1.5m,17.0,ºC
+2017,Julio,Lluvia,5.7,L/m2
+2017,Julio,Lluvia diaria máxima,2.4,L/m2
+2017,Julio,Humedad media de máximas a 1.5m,85.0,%
+2017,Julio,Temperatura media a 1.5m,18.0,ºC
+2017,Agosto,Lluvia,7.1,L/m2
+2017,Agosto,Lluvia diaria máxima,2.8,L/m2
+2017,Agosto,Humedad media de máximas a 1.5m,83.0,%
+2017,Agosto,Temperatura media a 1.5m,18.1,ºC
+2017,Septiembre,Lluvia,12.9,L/m2
+2017,Septiembre,Lluvia diaria máxima,3.8,L/m2
+2017,Septiembre,Humedad media de máximas a 1.5m,82.0,%
+2017,Septiembre,Temperatura media a 1.5m,17.2,ºC
+2017,Octubre,Lluvia,5.1,L/m2
+2017,Octubre,Lluvia diaria máxima,2.0,L/m2
+2017,Octubre,Humedad media de máximas a 1.5m,95.0,%
+2017,Octubre,Temperatura media a 1.5m,16.1,ºC
+2017,Noviembre,Lluvia,40.2,L/m2
+2017,Noviembre,Lluvia diaria máxima,12.6,L/m2
+2017,Noviembre,Humedad media de máximas a 1.5m,98.0,%
+2017,Noviembre,Temperatura media a 1.5m,12.6,ºC
+2017,Diciembre,Lluvia,144.3,L/m2
+2017,Diciembre,Lluvia diaria máxima,41.2,L/m2
+2017,Diciembre,Humedad media de máximas a 1.5m,93.0,%
+2017,Diciembre,Temperatura media a 1.5m,11.8,ºC
+2018,Enero,Lluvia,72.0,L/m2
+2018,Enero,Lluvia diaria máxima,20.7,L/m2
+2018,Enero,Humedad media de máximas a 1.5m,93.0,%
+2018,Enero,Temperatura media a 1.5m,11.9,ºC
+2018,Febrero,Lluvia,100.1,L/m2
+2018,Febrero,Lluvia diaria máxima,23.3,L/m2
+2018,Febrero,Humedad media de máximas a 1.5m,89.0,%
+2018,Febrero,Temperatura media a 1.5m,9.7,ºC
+2018,Marzo,Lluvia,185.6,L/m2
+2018,Marzo,Lluvia diaria máxima,22.0,L/m2
+2018,Marzo,Humedad media de máximas a 1.5m,89.0,%
+2018,Marzo,Temperatura media a 1.5m,10.7,ºC
+2018,Abril,Lluvia,55.1,L/m2
+2018,Abril,Lluvia diaria máxima,13.3,L/m2
+2018,Abril,Humedad media de máximas a 1.5m,91.0,%
+2018,Abril,Temperatura media a 1.5m,12.6,ºC
+2018,Mayo,Lluvia,13.2,L/m2
+2018,Mayo,Lluvia diaria máxima,3.3,L/m2
+2018,Mayo,Humedad media de máximas a 1.5m,92.0,%
+2018,Mayo,Temperatura media a 1.5m,13.9,ºC
+2018,Junio,Lluvia,102.3,L/m2
+2018,Junio,Lluvia diaria máxima,32.8,L/m2
+2018,Junio,Temperatura media a 1.5m,17.2,ºC
+2018,Julio,Lluvia,15.1,L/m2
+2018,Julio,Lluvia diaria máxima,9.3,L/m2
+2018,Julio,Humedad media de máximas a 1.5m,98.0,%
+2018,Julio,Temperatura media a 1.5m,18.6,ºC
+2018,Agosto,Lluvia,19.6,L/m2
+2018,Agosto,Lluvia diaria máxima,19.6,L/m2
+2018,Agosto,Humedad media de máximas a 1.5m,97.0,%
+2018,Agosto,Temperatura media a 1.5m,18.1,ºC
+2018,Septiembre,Humedad media de máximas a 1.5m,97.0,%
+2018,Septiembre,Temperatura media a 1.5m,17.0,ºC
+2018,Octubre,Lluvia,109.1,L/m2
+2018,Octubre,Lluvia diaria máxima,15.9,L/m2
+2018,Octubre,Humedad media de máximas a 1.5m,92.0,%
+2018,Octubre,Temperatura media a 1.5m,15.1,ºC
+2018,Noviembre,Lluvia,139.2,L/m2
+2018,Noviembre,Lluvia diaria máxima,25.4,L/m2
+2018,Noviembre,Humedad media de máximas a 1.5m,93.0,%
+2018,Noviembre,Temperatura media a 1.5m,13.3,ºC
+2018,Diciembre,Lluvia,42.1,L/m2
+2018,Diciembre,Lluvia diaria máxima,20.0,L/m2
+2018,Diciembre,Humedad media de máximas a 1.5m,93.0,%
+2018,Diciembre,Temperatura media a 1.5m,13.1,ºC
+2019,Enero,Lluvia,95.1,L/m2
+2019,Enero,Lluvia diaria máxima,23.0,L/m2
+2019,Enero,Humedad media de máximas a 1.5m,93.0,%
+2019,Enero,Temperatura media a 1.5m,10.5,ºC
+2019,Febrero,Lluvia,49.5,L/m2
+2019,Febrero,Lluvia diaria máxima,19.7,L/m2
+2019,Febrero,Humedad media de máximas a 1.5m,89.0,%
+2019,Febrero,Temperatura media a 1.5m,12.4,ºC
+2019,Marzo,Lluvia,18.2,L/m2
+2019,Marzo,Lluvia diaria máxima,8.8,L/m2
+2019,Marzo,Humedad media de máximas a 1.5m,89.0,%
+2019,Marzo,Temperatura media a 1.5m,12.3,ºC
+2019,Abril,Lluvia,38.1,L/m2
+2019,Abril,Lluvia diaria máxima,7.1,L/m2
+2019,Abril,Humedad media de máximas a 1.5m,93.0,%
+2019,Abril,Temperatura media a 1.5m,12.5,ºC
+2019,Mayo,Lluvia,26.6,L/m2
+2019,Mayo,Lluvia diaria máxima,14.4,L/m2
+2019,Mayo,Humedad media de máximas a 1.5m,91.0,%
+2019,Mayo,Temperatura media a 1.5m,14.6,ºC
+2019,Junio,Lluvia,36.4,L/m2
+2019,Junio,Lluvia diaria máxima,21.7,L/m2
+2019,Junio,Humedad media de máximas a 1.5m,94.0,%
+2019,Junio,Temperatura media a 1.5m,15.9,ºC
+2019,Julio,Lluvia,4.2,L/m2
+2019,Julio,Lluvia diaria máxima,2.1,L/m2
+2019,Julio,Humedad media de máximas a 1.5m,97.0,%
+2019,Julio,Temperatura media a 1.5m,17.7,ºC
+2019,Agosto,Lluvia,10.8,L/m2
+2019,Agosto,Lluvia diaria máxima,7.3,L/m2
+2019,Agosto,Humedad media de máximas a 1.5m,95.0,%
+2019,Agosto,Temperatura media a 1.5m,19.0,ºC
+2019,Septiembre,Lluvia,6.2,L/m2
+2019,Septiembre,Lluvia diaria máxima,4.1,L/m2
+2019,Septiembre,Humedad media de máximas a 1.5m,95.0,%
+2019,Septiembre,Temperatura media a 1.5m,16.9,ºC
+2019,Octubre,Lluvia,45.3,L/m2
+2019,Octubre,Lluvia diaria máxima,14.4,L/m2
+2019,Octubre,Humedad media de máximas a 1.5m,95.0,%
+2019,Octubre,Temperatura media a 1.5m,16.4,ºC
+2019,Noviembre,Lluvia,78.0,L/m2
+2019,Noviembre,Lluvia diaria máxima,9.4,L/m2
+2019,Noviembre,Humedad media de máximas a 1.5m,93.0,%
+2019,Noviembre,Temperatura media a 1.5m,13.6,ºC
+2019,Diciembre,Lluvia,58.6,L/m2
+2019,Diciembre,Lluvia diaria máxima,14.3,L/m2
+2019,Diciembre,Humedad media de máximas a 1.5m,94.0,%
+2019,Diciembre,Temperatura media a 1.5m,12.4,ºC
+2020,Enero,Lluvia,33.7,L/m2
+2020,Enero,Lluvia diaria máxima,20.2,L/m2
+2020,Enero,Humedad media de máximas a 1.5m,93.0,%
+2020,Enero,Temperatura media a 1.5m,11.8,ºC
+2020,Febrero,Lluvia,20.8,L/m2
+2020,Febrero,Lluvia diaria máxima,15.8,L/m2
+2020,Febrero,Humedad media de máximas a 1.5m,94.0,%
+2020,Febrero,Temperatura media a 1.5m,13.3,ºC
+2020,Marzo,Lluvia,53.5,L/m2
+2020,Marzo,Lluvia diaria máxima,18.8,L/m2
+2020,Marzo,Humedad media de máximas a 1.5m,91.0,%
+2020,Marzo,Temperatura media a 1.5m,12.3,ºC
+2020,Abril,Lluvia,28.4,L/m2
+2020,Abril,Lluvia diaria máxima,4.3,L/m2
+2020,Abril,Humedad media de máximas a 1.5m,94.0,%
+2020,Abril,Temperatura media a 1.5m,13.9,ºC
+2020,Mayo,Lluvia,3.4,L/m2
+2020,Mayo,Lluvia diaria máxima,1.6,L/m2
+2020,Mayo,Humedad media de máximas a 1.5m,93.0,%
+2020,Mayo,Temperatura media a 1.5m,16.1,ºC
+2020,Junio,Lluvia,21.1,L/m2
+2020,Junio,Lluvia diaria máxima,11.4,L/m2
+2020,Junio,Humedad media de máximas a 1.5m,95.0,%
+2020,Junio,Temperatura media a 1.5m,16.5,ºC
+2020,Julio,Lluvia,0.5,L/m2
+2020,Julio,Lluvia diaria máxima,0.5,L/m2
+2020,Julio,Humedad media de máximas a 1.5m,96.0,%
+2020,Julio,Temperatura media a 1.5m,17.1,ºC
+2020,Agosto,Lluvia,50.5,L/m2
+2020,Agosto,Lluvia diaria máxima,29.6,L/m2
+2020,Agosto,Humedad media de máximas a 1.5m,96.0,%
+2020,Agosto,Temperatura media a 1.5m,18.7,ºC
+2020,Septiembre,Lluvia,38.9,L/m2
+2020,Septiembre,Lluvia diaria máxima,19.7,L/m2
+2020,Septiembre,Humedad media de máximas a 1.5m,95.0,%
+2020,Septiembre,Temperatura media a 1.5m,17.4,ºC
+2020,Octubre,Lluvia,101.5,L/m2
+2020,Octubre,Lluvia diaria máxima,20.6,L/m2
+2020,Octubre,Humedad media de máximas a 1.5m,94.0,%
+2020,Octubre,Temperatura media a 1.5m,15.6,ºC
+2020,Noviembre,Lluvia,33.1,L/m2
+2020,Noviembre,Lluvia diaria máxima,8.3,L/m2
+2020,Noviembre,Humedad media de máximas a 1.5m,94.0,%
+2020,Noviembre,Temperatura media a 1.5m,14.4,ºC
+2020,Diciembre,Lluvia,88.9,L/m2
+2020,Diciembre,Lluvia diaria máxima,20.7,L/m2
+2020,Diciembre,Humedad media de máximas a 1.5m,91.0,%
+2020,Diciembre,Temperatura media a 1.5m,12.4,ºC
+2021,Enero,Lluvia,126.7,L/m2
+2021,Enero,Lluvia diaria máxima,19.1,L/m2
+2021,Enero,Humedad media de máximas a 1.5m,95.0,%
+2021,Enero,Temperatura media a 1.5m,10.6,ºC
+2021,Febrero,Lluvia,137.9,L/m2
+2021,Febrero,Lluvia diaria máxima,25.2,L/m2
+2021,Febrero,Humedad media de máximas a 1.5m,90.0,%
+2021,Febrero,Temperatura media a 1.5m,12.9,ºC
+2021,Marzo,Lluvia,8.0,L/m2
+2021,Marzo,Lluvia diaria máxima,3.9,L/m2
+2021,Marzo,Humedad media de máximas a 1.5m,89.0,%
+2021,Marzo,Temperatura media a 1.5m,12.0,ºC
+2021,Abril,Lluvia,55.5,L/m2
+2021,Abril,Lluvia diaria máxima,18.7,L/m2
+2021,Abril,Humedad media de máximas a 1.5m,90.0,%
+2021,Abril,Temperatura media a 1.5m,13.0,ºC
+2021,Mayo,Lluvia,69.6,L/m2
+2021,Mayo,Lluvia diaria máxima,34.6,L/m2
+2021,Mayo,Humedad media de máximas a 1.5m,93.0,%
+2021,Mayo,Temperatura media a 1.5m,14.1,ºC
+2021,Junio,Lluvia,71.3,L/m2
+2021,Junio,Lluvia diaria máxima,53.4,L/m2
+2021,Junio,Humedad media de máximas a 1.5m,95.0,%
+2021,Junio,Temperatura media a 1.5m,15.5,ºC
+2021,Julio,Lluvia,12.5,L/m2
+2021,Julio,Lluvia diaria máxima,5.6,L/m2
+2021,Julio,Humedad media de máximas a 1.5m,95.0,%
+2021,Julio,Temperatura media a 1.5m,17.7,ºC
+2021,Agosto,Lluvia,4.9,L/m2
+2021,Agosto,Lluvia diaria máxima,3.4,L/m2
+2021,Agosto,Humedad media de máximas a 1.5m,94.0,%
+2021,Agosto,Temperatura media a 1.5m,18.1,ºC
+2021,Septiembre,Lluvia,38.9,L/m2
+2021,Septiembre,Lluvia diaria máxima,15.9,L/m2
+2021,Septiembre,Humedad media de máximas a 1.5m,97.0,%
+2021,Septiembre,Temperatura media a 1.5m,17.7,ºC
+2021,Octubre,Lluvia,58.6,L/m2
+2021,Octubre,Lluvia diaria máxima,26.1,L/m2
+2021,Octubre,Humedad media de máximas a 1.5m,95.0,%
+2021,Octubre,Temperatura media a 1.5m,16.1,ºC
+2021,Noviembre,Lluvia,35.4,L/m2
+2021,Noviembre,Lluvia diaria máxima,5.2,L/m2
+2021,Noviembre,Humedad media de máximas a 1.5m,94.0,%
+2021,Noviembre,Temperatura media a 1.5m,12.5,ºC
+2021,Diciembre,Lluvia,78.1,L/m2
+2021,Diciembre,Lluvia diaria máxima,25.2,L/m2
+2021,Diciembre,Humedad media de máximas a 1.5m,92.0,%
+2021,Diciembre,Temperatura media a 1.5m,13.6,ºC

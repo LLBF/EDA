@@ -1,0 +1,51 @@
+	Variables mensuales
+	Temperatura		
+	Temperatura del suelo a -0.1m 	01-06-2007 	
+	Temperatura media a 0.1m 	01-06-2019 	
+	Temperatura media a 1.5m 	01-05-2007 	
+	Temperatura máxima a 1.5m 	01-05-2007 	
+	Temperatura mínima a 1.5m 	01-05-2007 	
+	Temperatura de rocío a 1.5m 	01-02-2010 	
+	Temperatura media de las máximas a 1.5m 	01-05-2007 	
+	Temperatura media de las mínimas a 1.5m 	01-05-2007 	
+	Horas de frío (<=7ºC) 	01-06-2007 	
+	Número de días de helada 	01-06-2007 	
+ 	
+  	Humedad Relativa		
+	Humedad relativa media a 1.5m 	01-05-2007 	
+	Humedad media de las máximas a 1.5m 	01-05-2007 	
+	Humidade media de las mínimas a 1.5m 	01-05-2007 	
+ 	
+  	Precipitación		
+	Lluvia diaria máxima 	01-05-2007 	
+	Lluvia 	01-06-2007 	
+	Número de días de lluvia (>0L/m2) 	01-06-2007 	
+	Número de días de lluvia (>1L/m2) 	01-06-2007 	
+	Número de días de lluvia (>10L/m2) 	01-06-2007 	
+	Número de días de lluvia (>30L/m2) 	01-06-2007 	
+	Número de días de lluvia (>60L/m2) 	01-06-2007 	
+ 	
+  	Viento		
+	Racha máxima a 2m 	01-01-2013 	
+	Velocidad del viento a 2m 	01-02-2010 	
+	Dirección de la racha a 2m 	01-08-2012 	
+	Dirección del viento predominante a 2m 	01-02-2012 	
+ 	
+  	Presión		
+	Presión 	01-08-2012 	
+	Presión reducida 	01-08-2012 	
+ 	
+  	Humedad Foliar		
+	Horas humedad foliar mensuales 	01-06-2008
+
+*La fecha no es orientativa
+
+Red meteorológica de MeteoGalicia
+Estación  Punta Langosteira. Arteixo (CO) - Estación activa
+Latitud: 	43.34723 WGS84 (EPSG:4326)
+Longitud: 	-8.531179 WGS84 (EPSG:4326)
+Altitud: 	5  m. 
+
+Periodo: 31/12/2013 - 31/12/2021
+para JSON valores_mensuales_lluvia y viento de Arteixo
+https://www.meteogalicia.gal/observacion/estacionshistorico/historico.action#

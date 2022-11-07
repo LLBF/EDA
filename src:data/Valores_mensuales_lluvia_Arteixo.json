@@ -1,0 +1,3844 @@
+{
+  "resultados" : [
+    {
+      "Código validación" : "1",
+      "Data" : "2014-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 55.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 10.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 64.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 9.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 15.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 14.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 16.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 90,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 31.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 15.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 5.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 96,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 11.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 31.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 8.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 19.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 23.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 86.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 26.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.2,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 35.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 14.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2014-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 43.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 9.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 26.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 4.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 10.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 7.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 90,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 33.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 11.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 0.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 0.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 3.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 41.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 16.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 96,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.2,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 40.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 12.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 10.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 5.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 22.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 5.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 88,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2015-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 91.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 103.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 21.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 68,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 32.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 77.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 21.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 46.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 18.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 13,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 0.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 0.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 96,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 2.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 1.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 52.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 99,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 19.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 98,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 69.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 16.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 12.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 6.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2016-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 16,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 4.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "9",
+      "Data" : "2017-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : -9999,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 10.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 96.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 34.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 81,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 112.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 17.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 80,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 16.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 13.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 79,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 54.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 13.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 82,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 19.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 85,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 5.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 85,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 7.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 83,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 12.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 82,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.2,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 5.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 40.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 12.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 98,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 144.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 41.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2017-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 72,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 100.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 23.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 89,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 9.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 185.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 22,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 89,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 10.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 55.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 13.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 13.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 102.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 32.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "9",
+      "Data" : "2018-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : -9999,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.2,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 15.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 9.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 98,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 19.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 0,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 0,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 109.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 15.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 139.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 25.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 42.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2018-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 95.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 23,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 10.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 49.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 89,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 18.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 8.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 89,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 38.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 26.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 14.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 36.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 21.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 4.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 2.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 10.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 7.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 19,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 6.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 4.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 45.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 14.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 78,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 9.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 58.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 14.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2019-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 33.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 11.8,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 20.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 15.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 53.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 18.8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.3,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 28.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 4.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 3.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 1.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 21.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 11.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 0.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 0.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 96,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 50.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 29.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 96,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 38.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 101.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 33.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 8.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 88.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 20.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 91,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2020-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.4,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-01-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 126.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-01-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 19.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-01-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-01-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-01-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 10.6,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-02-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 137.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-02-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 25.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-02-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 90,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-02-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-02-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.9,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-03-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 8,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-03-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-03-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 89,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-03-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-03-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-04-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 55.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-04-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 18.7,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-04-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 90,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-04-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-04-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-05-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 69.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-05-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 34.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-05-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 93,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-05-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-05-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 14.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-06-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 71.3,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-06-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 53.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-06-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-06-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-06-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 15.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-07-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 12.5,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-07-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 5.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-07-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-07-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-07-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-08-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 4.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-08-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 3.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-08-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-08-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-08-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 18.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-09-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 38.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-09-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 15.9,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-09-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 97,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-09-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-09-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 17.7,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-10-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 58.6,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-10-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 26.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-10-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 95,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-10-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-10-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 16.1,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-11-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 35.4,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-11-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 5.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-11-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 94,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-11-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-11-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 12.5,
+      "Unidades" : "ºC"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-12-01 00:00:00.0",
+      "Código parámetro" : "PP_SUM_1.5m",
+      "Parámetro" : "Chuvia",
+      "Valor" : 78.1,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-12-01 00:00:00.0",
+      "Código parámetro" : "PP_MAX_1.5m",
+      "Parámetro" : "Chuvia diaria máxima",
+      "Valor" : 25.2,
+      "Unidades" : "L/m2"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-12-01 00:00:00.0",
+      "Código parámetro" : "HR_AVGMAX_1.5m",
+      "Parámetro" : "Humidade media das máximas a 1.5m",
+      "Valor" : 92,
+      "Unidades" : "%"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-12-01 00:00:00.0",
+      "Código parámetro" : "NDX_RECUENTO_1.5m",
+      "Parámetro" : "Número de días de xeada",
+      "Valor" : 0,
+      "Unidades" : "Días"
+    },
+    {
+      "Código validación" : "1",
+      "Data" : "2021-12-01 00:00:00.0",
+      "Código parámetro" : "TA_AVG_1.5m",
+      "Parámetro" : "Temperatura media a 1.5m",
+      "Valor" : 13.6,
+      "Unidades" : "ºC"
+    }
+  ]
+}
