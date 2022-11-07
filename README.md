@@ -1,6 +1,6 @@
 # Eda
 
-## Inventario ambiental de temperaturas medias, calidad de aire y precipitaciones de la costa de la Coruña.
+## Inventario ambiental de temperaturas medias, calidad de aire y precipitaciones de la costa de la Coruña, España.
 
 
 ### OBJETIVO:
